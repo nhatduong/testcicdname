@@ -1,0 +1,15 @@
+//
+//  Debug.xcconfig
+//  testcicd
+//
+//  Created by NhatNguyen on 18/02/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+FX_APP_NAME = Project (dev)
+
+FX_APP_VERSION = 0.3
+
+FX_APP_BUNDLE_ID = com.nhatnguyen.testcicd.Debug
