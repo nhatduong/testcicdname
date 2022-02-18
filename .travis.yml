@@ -1,7 +1,7 @@
 language: swift
 osx_image: xcode13.2
-xcode_workspace: TheLastProject.xcworkspace
-xcode_scheme: TheLastProject_Development
+xcode_workspace: testcicd.xcworkspace
+xcode_scheme: testcicd
 xcode_destination: platform=iOS Simulator,OS=15.0,name=iPhone X
 before_install:
   - bundle install
