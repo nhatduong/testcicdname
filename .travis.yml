@@ -2,7 +2,7 @@ language: swift
 osx_image: xcode13.2
 xcode_workspace: testcicd.xcworkspace
 xcode_scheme: testcicd
-xcode_destination: platform=iOS Simulator,OS=15.0,name=iPhone X
+xcode_destination: platform=iOS Simulator,OS=15.2,name=iPhone 13 Pro
 before_install:
   - bundle install
   - bundle exec pod install --repo-update
